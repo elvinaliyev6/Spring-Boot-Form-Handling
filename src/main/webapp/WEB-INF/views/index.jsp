@@ -7,10 +7,14 @@
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
-  <head>
-    <title>$Title$</title>
-  </head>
-  <body>
-  $END$
-  </body>
+<head>
+    <title>Sprng Boot Form Handling Example</title>
+</head>
+<body>
+    <h1>Spring Boot Form Handling Exanple</h1>
+    <h2>Spring Form Tags with JSP</h2>
+
+    <a href="/register">Click here to register</a>
+
+</body>
 </html>
